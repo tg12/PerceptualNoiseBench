@@ -91,6 +91,10 @@ Running the benchmark produces:
 
 These artefacts are suitable for research documentation, forensic evidence trails, or inclusion in supplementary material.
 
+<img width="2532" height="1606" alt="image" src="https://github.com/user-attachments/assets/9b9b4843-53b0-4da7-b624-8509926b970d" />
+
+<img width="2928" height="1346" alt="image" src="https://github.com/user-attachments/assets/fda16cb0-5aaf-4aac-8b92-d9e36264e96f" />
+
 ---
 
 ## Pipeline Summary
