@@ -148,3 +148,13 @@ The system is intentionally transparent and reproducible so researchers can buil
 PerceptualNoiseBench is designed for legitimate research on perceptual perturbations, watermarking, and forensic analysis. Users are responsible for ensuring compliance with all legal and ethical guidelines when applying these methods to real assets.
 
 ---
+
+## Support
+
+If you find this project useful, consider supporting it:
+
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
